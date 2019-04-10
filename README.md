@@ -3,10 +3,10 @@ This account acts as a companion site to our work titled "PTSD Blood Transcripto
 
 Here you can find: 
 
-1) PTSD blood transcriptome data - five indepdnent studies covering seven types of trauma in 229 PTSD and 311 comparison individuals
+1) PTSD blood transcriptome data - five independent studies covering seven types of trauma in 229 PTSD and 311 comparison individuals
 2) Corresponding meta-data file
 3) Computational code for running weighted gene co-expression network analysis
-4) A list of differential gene expression signatures associated with an overall PTSD effect
+4) A list of differential gene expression signatures associated with an overall PTSD effect (remaining gene lists can be located in the supplemental files)
 
 Feel free to contact me for any additional questions or comments: michael.breen@mssm.edu
 https://breenpsychgene.wordpress.com/
